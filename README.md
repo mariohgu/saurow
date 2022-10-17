@@ -1,2 +1,3 @@
 # saurow
-Firearms detections model
+Firearms detections model - Handong Global University
+Mario Figueroa
