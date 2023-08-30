@@ -8,7 +8,8 @@
 </head>
 <body>
     <h1>Firearms detections model - Handong Global University</h1>
-    <h2>Mario Figueroa</h2>
+    <h2>Mario Figueroa, Msc</h2>
+    <h2>Yun Seon Kim, Phd </h2>
     <img src="https://github.com/mariohgu/saurow/blob/main/01-17.gif" alt="gif of model result" width="690" height="388">
       
 </body>
